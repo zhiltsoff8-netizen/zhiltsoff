@@ -58,36 +58,10 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Москва 24
-https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Самара 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,ТОЛК
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Мужское
@@ -162,77 +136,77 @@ http://31.131.141.195:8000/play/1030/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Turon Media (VPN)",Первый канал
+#EXTINF:-1 group-title="Turon Media",Первый канал
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",НТВ
+#EXTINF:-1 group-title="Turon Media",НТВ
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Россия К
+#EXTINF:-1 group-title="Turon Media",Россия К
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Россия 24
+#EXTINF:-1 group-title="Turon Media",Россия 24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Россия 1
+#EXTINF:-1 group-title="Turon Media",Россия 1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Viasat Nature
+#EXTINF:-1 group-title="Turon Media",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Viasat History
+#EXTINF:-1 group-title="Turon Media",Viasat History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Viasat Explore
+#EXTINF:-1 group-title="Turon Media",Viasat Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",NAT GEO WILD
+#EXTINF:-1 group-title="Turon Media",NAT GEO WILD
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",National Geographic
+#EXTINF:-1 group-title="Turon Media",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",История
+#EXTINF:-1 group-title="Turon Media",История
 https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Discovery Science
+#EXTINF:-1 group-title="Turon Media",Discovery Science
 https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",ТВЦ
+#EXTINF:-1 group-title="Turon Media",ТВЦ
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мир 24
+#EXTINF:-1 group-title="Turon Media",Мир 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мир
+#EXTINF:-1 group-title="Turon Media",Мир
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинопоказ
+#EXTINF:-1 group-title="Turon Media",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Наше Новое Кино
+#EXTINF:-1 group-title="Turon Media",Наше Новое Кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Родное Кино
+#EXTINF:-1 group-title="Turon Media",Родное Кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинохит
+#EXTINF:-1 group-title="Turon Media",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киносерия
+#EXTINF:-1 group-title="Turon Media",Киносерия
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киносемья
+#EXTINF:-1 group-title="Turon Media",Киносемья
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киносвидание
+#EXTINF:-1 group-title="Turon Media",Киносвидание
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинопремьера
+#EXTINF:-1 group-title="Turon Media",Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киномикс
+#EXTINF:-1 group-title="Turon Media",Киномикс
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинокомедия
+#EXTINF:-1 group-title="Turon Media",Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Индийское Кино
+#EXTINF:-1 group-title="Turon Media",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Звезда
+#EXTINF:-1 group-title="Turon Media",Звезда
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Дом Кино
+#EXTINF:-1 group-title="Turon Media",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TV1000 Русское Кино
+#EXTINF:-1 group-title="Turon Media",TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TV1000 ACTION HD
+#EXTINF:-1 group-title="Turon Media",TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TV1000
+#EXTINF:-1 group-title="Turon Media",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Cinema
+#EXTINF:-1 group-title="Turon Media",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",365 Дней HD
+#EXTINF:-1 group-title="Turon Media",365 Дней HD
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Музыка Первого
+#EXTINF:-1 group-title="Turon Media",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",МузТВ
+#EXTINF:-1 group-title="Turon Media",МузТВ
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",RU.TV
+#EXTINF:-1 group-title="Turon Media",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
 
@@ -327,41 +301,41 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Первый канал (+4)
+#EXTINF:-1 group-title="Виктория", Первый канал (+4)
 http://95.47.155.244:8001/play/a001
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 1 (+4)
+#EXTINF:-1 group-title="Виктория", Россия 1 (+4)
 http://95.47.155.244:8001/play/a002
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия К
+#EXTINF:-1 group-title="Виктория", Россия К
 http://95.47.155.244:8001/play/a006
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 24
+#EXTINF:-1 group-title="Виктория", Россия 24
 http://95.47.155.244:8001/play/a007
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТНТ (+4)
+#EXTINF:-1 group-title="Виктория", ТНТ (+4)
 http://95.47.155.244:8001/play/a019
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РЕН ТВ (+4)
+#EXTINF:-1 group-title="Виктория", РЕН ТВ (+4)
 http://95.47.155.244:8001/play/a011
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", НТВ (+4)
+#EXTINF:-1 group-title="Виктория", НТВ (+4)
 http://95.47.155.244:8001/play/a004
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Пятый канал +4
+#EXTINF:-1 group-title="Виктория", Пятый канал +4
 http://95.47.155.244:8001/play/a005
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ОТР
+#EXTINF:-1 group-title="Виктория", ОТР
 http://95.47.155.244:8001/play/a009
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВЦ +4
+#EXTINF:-1 group-title="Виктория", ТВЦ +4
 http://95.47.155.244:8001/play/a010
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", СТС (+4)
+#EXTINF:-1 group-title="Виктория", СТС (+4)
 http://95.47.155.244:8001/play/a013
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Домашний (+4) 
+#EXTINF:-1 group-title="Виктория", Домашний (+4) 
 http://95.47.155.244:8001/play/a014
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВ3 (+4)
+#EXTINF:-1 group-title="Виктория", ТВ3 (+4)
 http://95.47.155.244:8001/play/a015
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Пятница (+4)
+#EXTINF:-1 group-title="Виктория", Пятница (+4)
 http://95.47.155.244:8001/play/a016
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)" ,Звезда (+4)
+#EXTINF:-1 group-title="Виктория" ,Звезда (+4)
 http://95.47.155.244:8001/play/a017
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МИР
+#EXTINF:-1 group-title="Виктория", МИР
 http://95.47.155.244:8001/play/a018
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МузТВ
+#EXTINF:-1 group-title="Виктория", МузТВ
 http://95.47.155.244:8001/play/a020
-#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МАТЧ
+#EXTINF:-1 group-title="Виктория", МАТЧ
 http://95.47.155.244:8001/play/a003
 
 
@@ -432,26 +406,25 @@ https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/Bj3bBNaX4Tqr6bhV06M5Nw,1785308105/streaming/cheott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/mH94B9r_l_YynhoW_Q1KuA,1785308105/streaming/tnt4ott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/TpAtjVLV5922yJHKZOMMHQ,1785308105/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/985RMJ0w_KxoQN-ADmXafg,1785308105/streaming/fenixkino/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/1/logo_256_1705554875.png", 2x2
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/mPgcc8WmxaiO-I3n8EPaJA,1785308105/streaming/mir_seriala/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/5zTHMRxORSqhb0qPx-fq5A,1785308105/streaming/tv_xxi/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/I0LWnDPULhpVJCd-nZvdGQ,1785308105/streaming/centrtv/324/1/index.m3u8
 
