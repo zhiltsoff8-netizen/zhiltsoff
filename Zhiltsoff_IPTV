@@ -7,12 +7,8 @@
 
 #EXTINF:-1 group-title="Украина",1+1 International 
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-EXTINF:-1 group-title="Украина",1+1 Україна
-http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
-#EXTINF:-1 group-title="Украина",ІНТЕР
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384895&extension=ts
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ІНТЕР+
-http://stream.mcquack.net/345/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Інтер
+http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Новый канал
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ICTV 2
@@ -21,26 +17,24 @@ http://stream.mcquack.net/368/index.m3u8
 http://stream.mcquack.net/156/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Культура
-http://stream.mcquack.net/435/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",К1
-http://stream.mcquack.net/270/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ТЕТ
 http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",К1
+http://stream.mcquack.net/270/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",К2
+http://stream.mcquack.net/324/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ОЦЕ
 http://stream.mcquack.net/329/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",НТН
 http://stream.mcquack.net/326/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Bolt
 http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Інтер
-http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",К2
-http://stream.mcquack.net/324/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Київ
 http://stream.mcquack.net/439/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Крим
 http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Культура
+http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Zoom
 http://stream.mcquack.net/327/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Discovery
