@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Інтер +
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Интер +
 http://stream.mcquack.net/345/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Новый канал
 http://stream.mcquack.net/157/index.m3u8
