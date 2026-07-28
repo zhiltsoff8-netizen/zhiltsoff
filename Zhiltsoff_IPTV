@@ -32,19 +32,16 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +1
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +2
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +4
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +7
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Хит
@@ -325,46 +322,6 @@ http://45.11.139.43:8555/orujie/index.m3u8
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 8 канал
 http://45.11.139.43:8555/8kanal/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Internet42 LLC", Россия 24
-http://176.118.197.101/Rossiya24/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", ТНТ (+2)
-http://176.118.197.101/THT/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", НТВ (+2)
-http://176.118.197.101/NTV/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Иллюзион+
-http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Кинокомедия
-http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Киномикс
-http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", НСТ
-http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Родное кино
-http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Кинопоказ
-http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Киносерия
-http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Любимое кино
-http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Мир сериала
-http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", 2x2
-http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", СТС (+2)
-http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Че (+2)
-http://176.118.197.101/Che/index.m3u8
 
 
 
