@@ -1,433 +1,54 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
-
-
-
-
-
-
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+3)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+4)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+5)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+6)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+7)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+8)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 (+9)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Хит
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Сериал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Право
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Стиль
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Любовь
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Мужское
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Праздник
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Детское
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Соловьев Live
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Лен ТВ 24
-https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Звезда Плюс
-#EXTINF:-1 group-title="С сайтов (VPN)",ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Неизвестная Россия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Сириус",Первый канал
-http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="Сириус",Рен ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="Сириус",Россия 1
-http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Сириус",НТВ
-http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Сириус",ТНТ
-http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 group-title="Сириус",Россия К
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Сириус",Россия 24
-http://31.131.141.195:8000/play/1070/index.m3u8
-#EXTINF:-1 group-title="Сириус",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Сириус",ОТР
-http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 group-title="Сириус",ТВЦ
-http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:-1 group-title="Сириус",СТС
-http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Сириус",Пятница
-http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="Сириус",Домашний
-http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Сириус",ТВ3
-http://31.131.141.195:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Сириус",Мир
-http://31.131.141.195:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Сириус",Звезда
-http://31.131.141.195:8000/play/2070/index.m3u8
-#EXTINF:-1 group-title="Сириус",МузТВ
-http://31.131.141.195:8000/play/2100/index.m3u8
-#EXTINF:-1 group-title="Сириус",Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:-1 group-title="Сириус",Матч ТВ
-http://31.131.141.195:8000/play/1030/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Turon Media",Первый канал
-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",НТВ
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Россия К
-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Россия 24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Россия 1
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Viasat Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Viasat History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Viasat Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",NAT GEO WILD
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",История
-https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Discovery Science
-https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",ТВЦ
-https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Мир 24
-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Мир
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Кинопоказ
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Наше Новое Кино
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Родное Кино
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Кинохит
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Киносерия
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Киносемья
-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Киносвидание
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Кинопремьера
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Киномикс
-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Кинокомедия
-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Индийское Кино
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Звезда
-https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",TV1000 Русское Кино
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",TV1000 ACTION HD
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",365 Дней HD
-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Музыка Первого
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",МузТВ
-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",RU.TV
-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Инет",Россия К
-http://185.46.16.239:8000/Rossiya_K
-#EXTINF:-1 group-title="Инет",Россия 24
-http://185.46.16.239:8000/Rossiya_24
-#EXTINF:-1 group-title="Инет",Россия 1
-http://185.46.16.239:8000/Rossiya_1
-#EXTINF:-1 group-title="Инет",ТНТ
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="Инет",НТВ
-http://185.46.16.239:8000/NTV
-#EXTINF:-1 group-title="Инет",Рен ТВ
-http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="Инет",История
-http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="Инет",Звезда
-http://185.46.16.239:8000/Zvezda
-#EXTINF:-1 group-title="Инет",ТВ3
-http://185.46.16.239:8000/TV3
-#EXTINF:-1 group-title="Инет",СТС
-http://185.46.16.239:8000/STS
-#EXTINF:-1 group-title="Инет",ОТР
-http://185.46.16.239:8000/OTR
-#EXTINF:-1 group-title="Инет",МИР
-http://185.46.16.239:8000/Mir
-#EXTINF:-1 group-title="Инет",Домашний
-http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 group-title="Инет",Ю
-http://185.46.16.239:8000/YU_TV
-#EXTINF:-1 group-title="Инет",Пятница
-http://185.46.16.239:8000/Pyatnitsa
-#EXTINF:-1 group-title="Инет",Драйв
-http://185.46.16.239:8000/Drayv
-#EXTINF:-1 group-title="Инет",Русский иллюзион
-http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="Инет",Иллюзион+
-http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="Инет",Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="Инет",Еврокино
-http://185.46.16.239:8000/Yevrokino
-#EXTINF:-1 group-title="Инет",НАШЕ НОВОЕ КИНО
-http://185.46.16.239:8000/Nickelodeon
-#EXTINF:-1 group-title="Инет",Русский роман
-http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 group-title="Инет",Cinema
-http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="Инет",Кинокомедия
-http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 group-title="Инет",Киномикс
-http://185.46.16.239:8000/Fox_Life_HD
-#EXTINF:-1 group-title="Инет",МузТВ
-http://185.46.16.239:8000/Muz_TV
-
-
-
-
-
-
-#EXTINF:-1 group-title="TEST ⓵",Патриот
-http://starcius-cinema.com/10244/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Апостроф
-http://starcius-cinema.com/10660/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Star Cinema
-http://starcius-cinema.com/12042/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Киномикс
-http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Дорама
-https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="TEST ⓵",Cartoon Network
-http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч ТВ
-http://45.132.87.69:8080/match/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч! Страна
-http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
-http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Оружие 
-http://45.11.139.43:8555/orujie/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Время
-http://45.11.139.43:8555/vremya/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", 8 канал
-http://45.11.139.43:8555/8kanal/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Виктория", Первый канал (+4)
-http://95.47.155.244:8001/play/a001
-#EXTINF:-1 group-title="Виктория", Россия 1 (+4)
-http://95.47.155.244:8001/play/a002
-#EXTINF:-1 group-title="Виктория", Россия К
-http://95.47.155.244:8001/play/a006
-#EXTINF:-1 group-title="Виктория", Россия 24
-http://95.47.155.244:8001/play/a007
-#EXTINF:-1 group-title="Виктория", ТНТ (+4)
-http://95.47.155.244:8001/play/a019
-#EXTINF:-1 group-title="Виктория", РЕН ТВ (+4)
-http://95.47.155.244:8001/play/a011
-#EXTINF:-1 group-title="Виктория", НТВ (+4)
-http://95.47.155.244:8001/play/a004
-#EXTINF:-1 group-title="Виктория", Пятый канал +4
-http://95.47.155.244:8001/play/a005
-#EXTINF:-1 group-title="Виктория", ОТР
-http://95.47.155.244:8001/play/a009
-#EXTINF:-1 group-title="Виктория", ТВЦ +4
-http://95.47.155.244:8001/play/a010
-#EXTINF:-1 group-title="Виктория", СТС (+4)
-http://95.47.155.244:8001/play/a013
-#EXTINF:-1 group-title="Виктория", Домашний (+4) 
-http://95.47.155.244:8001/play/a014
-#EXTINF:-1 group-title="Виктория", ТВ3 (+4)
-http://95.47.155.244:8001/play/a015
-#EXTINF:-1 group-title="Виктория", Пятница (+4)
-http://95.47.155.244:8001/play/a016
-#EXTINF:-1 group-title="Виктория" ,Звезда (+4)
-http://95.47.155.244:8001/play/a017
-#EXTINF:-1 group-title="Виктория", МИР
-http://95.47.155.244:8001/play/a018
-#EXTINF:-1 group-title="Виктория", МузТВ
-http://95.47.155.244:8001/play/a020
-#EXTINF:-1 group-title="Виктория", МАТЧ
-http://95.47.155.244:8001/play/a003
-
-
-
-
-
-
-#EXTINF:-1 group-title="TEST (VPN)",Первый канал (+4)
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Россия РТР
-https://streaming.thestream.cyou/live/211.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Россия 24
-https://streaming.thestream.cyou/live/30.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",НТВ-Мир
-https://streaming.thestream.cyou/live/213.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ТНТ (+4)
-https://streaming.thestream.cyou/live/38.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Победа
-https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Дом кино
-https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Карусель
-https://streaming.thestream.cyou/live/232.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",СТС (+4)
-https://streaming.thestream.cyou/live/296.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
-http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Киномикс
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Звезда (+4)
-http://vod.tuva.ru/zvezda/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Пятница (+4)
-http://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Русский Роман
-http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",НСТ
-http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Еврокино
-http://vod.tuva.ru/eurokino/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="С сайтов", Top Secret
-#EXTVLCOPT:http-referrer=https://sovsekretno.tv/
-https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
-#EXTINF:-1 group-title="С сайтов",Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="С сайтов",СТВ Беларусь
-https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
-#EXTINF:-1 group-title="С сайтов",Первый информационный HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="С сайтов",Беларусь 1 HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="С сайтов",Беларусь 2 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="С сайтов",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="С сайтов",ОНТ HD
-https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 group-title="С сайтов",ДнiпроTV
-https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Bj3bBNaX4Tqr6bhV06M5Nw,1785308105/streaming/cheott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/mH94B9r_l_YynhoW_Q1KuA,1785308105/streaming/tnt4ott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/TpAtjVLV5922yJHKZOMMHQ,1785308105/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/985RMJ0w_KxoQN-ADmXafg,1785308105/streaming/fenixkino/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/mPgcc8WmxaiO-I3n8EPaJA,1785308105/streaming/mir_seriala/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/5zTHMRxORSqhb0qPx-fq5A,1785308105/streaming/tv_xxi/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/I0LWnDPULhpVJCd-nZvdGQ,1785308105/streaming/centrtv/324/1/index.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Інтер +
+http://stream.mcquack.net/345/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Новый канал
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ICTV 2
+http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",СТБ
+http://stream.mcquack.net/156/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",2+2
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Культура
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",К1
+http://stream.mcquack.net/270/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ТЕТ
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ОЦЕ
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",НТН
+http://stream.mcquack.net/326/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Інтер
+http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",К2
+http://stream.mcquack.net/324/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Київ
+http://stream.mcquack.net/439/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Суспільне Крим
+http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Zoom
+http://stream.mcquack.net/327/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Discovery
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",TLC
+http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Animal Planet
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Перший Автомобільний
+http://stream.mcquack.net/404/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Мега
+http://stream.mcquack.net/325/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Enter-фільм
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Kinoliving
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Kinowood
+http://stream.mcquack.net/446/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Kinosweet
+http://stream.mcquack.net/447/index.m3u8
