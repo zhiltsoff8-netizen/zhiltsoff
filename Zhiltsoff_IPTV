@@ -11,7 +11,7 @@ EXTINF:-1 group-title="Украина",1+1 Україна
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 group-title="Украина",ІНТЕР
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384895&extension=ts
-#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Интер +
+#EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",ІНТЕР+
 http://stream.mcquack.net/345/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Новый канал
 http://stream.mcquack.net/157/index.m3u8
