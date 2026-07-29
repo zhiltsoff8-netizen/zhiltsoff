@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 
 
-
-
-
-
 #EXTINF:-1 group-title="Украина",1+1 International 
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-rec="7" timeshift="7",Інтер
@@ -63,9 +59,6 @@ http://stream.mcquack.net/447/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 group-title="Украина",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
@@ -153,8 +146,6 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Сириус",Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Сириус",Рен ТВ
@@ -193,10 +184,6 @@ http://31.131.141.195:8000/play/2100/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 group-title="Сириус",Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-
-
-
-
 
 
 #EXTINF:-1 group-title="Turon Media",Первый канал
@@ -273,10 +260,6 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
 
-
-
-
-
 #EXTINF:-1 group-title="Инет",Россия К
 http://185.46.16.239:8000/Rossiya_K
 #EXTINF:-1 group-title="Инет",Россия 24
@@ -331,10 +314,6 @@ http://185.46.16.239:8000/Fox_Life_HD
 http://185.46.16.239:8000/Muz_TV
 
 
-
-
-
-
 #EXTINF:-1 group-title="TEST ⓵",Патриот
 http://starcius-cinema.com/10244/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Апостроф
@@ -359,9 +338,6 @@ http://45.11.139.43:8555/orujie/index.m3u8
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 8 канал
 http://45.11.139.43:8555/8kanal/index.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="Виктория", Первый канал (+4)
@@ -402,10 +378,6 @@ http://95.47.155.244:8001/play/a020
 http://95.47.155.244:8001/play/a003
 
 
-
-
-
-
 #EXTINF:-1 group-title="TEST (VPN)",Первый канал (+4)
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Россия РТР
@@ -440,10 +412,6 @@ http://vod.tuva.ru/nst/index.m3u8
 http://vod.tuva.ru/eurokino/index.m3u8
 
 
-
-
-
-
 #EXTINF:-1 group-title="С сайтов", Top Secret
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
@@ -463,10 +431,6 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w16
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="С сайтов",ДнiпроTV
 https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
@@ -492,9 +456,6 @@ https://mhd116.iptv2022.com/x/5zTHMRxORSqhb0qPx-fq5A,1785308105/streaming/tv_xxi
 https://mhd116.iptv2022.com/x/I0LWnDPULhpVJCd-nZvdGQ,1785308105/streaming/centrtv/324/1/index.m3u8
 
 
-
-
-
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1
 http://stream.mcquack.net/176/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2
@@ -515,57 +476,59 @@ http://stream.mcquack.net/256/index.m3u8
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",DiVi Sport
 http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="Спорт",Окко Прайм Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
 
 
-
-
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
+#EXTINF:-1 group-title="Познавательные",Viasat explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+#EXTINF:-1 group-title="Познавательные",Viasat History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
+#EXTINF:-1 group-title="Познавательные",Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+#EXTINF:-1 group-title="Познавательные",Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTINF:-1 group-title="Познавательные",Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
+#EXTINF:-1 group-title="Познавательные",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+#EXTINF:-1 group-title="Познавательные",Наука
 http://hls127.freeott.top:8080/NAUKA/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+#EXTINF:-1 group-title="Познавательные",Animal Planet
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
+#EXTINF:-1 group-title="Познавательные",Discovery
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Приключения
+#EXTINF:-1 group-title="Познавательные",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Первый Космический
+#EXTINF:-1 group-title="Познавательные",Первый Космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+#EXTINF:-1 group-title="Познавательные",Наука
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+#EXTINF:-1 group-title="Познавательные",Моя Планета
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+#EXTINF:-1 group-title="Познавательные",Viasat History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+#EXTINF:-1 group-title="Познавательные",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Insight TV HD
+#EXTINF:-1 group-title="Познавательные",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка 
+#EXTINF:-1 group-title="Познавательные",Точка 
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTINF:-1 group-title="Познавательные",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
 
