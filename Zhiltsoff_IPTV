@@ -433,7 +433,145 @@ https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/Bj3bBNaX4Tqr6bhV06M5Nw,1785308105/streaming/cheott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/mH94B9r_l_YynhoW_Q1KuA,1785308105/streaming/tnt4ott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/TpAtjVLV5922yJHKZOMMHQ,1785308105/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/985RMJ0w_KxoQN-ADmXafg,1785308105/streaming/fenixkino/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/mPgcc8WmxaiO-I3n8EPaJA,1785308105/streaming/mir_seriala/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/5zTHMRxORSqhb0qPx-fq5A,1785308105/streaming/tv_xxi/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/I0LWnDPULhpVJCd-nZvdGQ,1785308105/streaming/centrtv/324/1/index.m3u8
 
+
+#EXTINF:-1 group-title="Каналы с VPN",Кино ТВ
+http://31.148.48.15:80/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кино ТВ HD
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",ТВ 21
+http://31.148.48.15:80/TV_XXI/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia 1
+http://31.148.48.15:80/A1/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia 2
+http://31.148.48.15:80/A2/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia Hit HD
+http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia Premium HD
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Русский бестселлер
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Русский детектив
+http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Русский иллюзион
+http://31.148.48.15:80/Russkiy_illusion/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Русский роман
+http://31.148.48.15:80/Russkiy_Roman/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Русский роман HD
+http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
+
+
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Amedia 1
+http://smotrim.org/000000710.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Amedia 2
+http://smotrim.org/000000351.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Amedia Hit
+http://smotrim.org/000001662.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Amedia Premium
+http://smotrim.org/000000709.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Cinema
+http://smotrim.org/000000239.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",FX
+http://smotrim.org/000004472.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",FX Life
+http://smotrim.org/000004471.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",.black
+http://smotrim.org/000000520.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",.red
+http://smotrim.org/000000213.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",.sci-fi
+http://smotrim.org/000000134.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",TV XXI
+http://smotrim.org/000000006.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",TV1000
+http://smotrim.org/000003747.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",TV1000 Action
+http://smotrim.org/000003910.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",TV1000 Русское кино
+http://smotrim.org/000003748.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Vip Comedy
+http://smotrim.org/000000870.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Vip Megahit
+http://smotrim.org/000000869.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Vip Premiere
+http://smotrim.org/000000868.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Vip Serial
+http://smotrim.org/000004375.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Дом кино
+http://smotrim.org/000000050.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Дом кино Премиум
+http://smotrim.org/000002943.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Дорама
+http://smotrim.org/000003392.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Еврокино
+http://smotrim.org/000000152.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Иллюзион+
+http://smotrim.org/000004582.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Мир сериала
+http://smotrim.org/000000319.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Любимое кино
+http://smotrim.org/000000283.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",НСТ
+http://smotrim.org/000000078.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Русский иллюзион
+http://smotrim.org/000004207.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",TLC
+http://smotrim.org/000001498.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Animal Planet
+http://smotrim.org/000000216.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Discovery
+http://smotrim.org/000001496.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Galaxy TV
+http://smotrim.org/000000332.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",History
+http://smotrim.org/000001000.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",H2
+http://smotrim.org/000002722.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Nat Geo Wild
+http://smotrim.org/000004474.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",National Geographic
+http://smotrim.org/000000034.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Viasat Explore
+http://smotrim.org/000004157.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Viasat History
+http://smotrim.org/000005528.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Viasat Nature
+http://smotrim.org/000006482.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Охота и рыбалка
+http://smotrim.org/000002510.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Eurosport 1
+http://smotrim.org/000002478.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Eurosport 2
+http://smotrim.org/000002479.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Setanta Sports 1 Georgia
+http://smotrim.org/000004498.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Setanta Sports 2 Georgia
+http://smotrim.org/000004499.m3u8
+#EXTINF:-1 group-title="ALEXHOST SRL (VPN)",Viasat Sport
+http://smotrim.org/000000135.m3u8
 
 
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1
@@ -458,8 +596,6 @@ http://stream.mcquack.net/444/index.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 group-title="Спорт",Окко Прайм Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-http://31.131.141.195:8000/play/1030/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные",Viasat explore
@@ -492,16 +628,6 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя Планета
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка 
