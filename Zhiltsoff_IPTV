@@ -433,29 +433,6 @@ https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Bj3bBNaX4Tqr6bhV06M5Nw,1785308105/streaming/cheott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/mH94B9r_l_YynhoW_Q1KuA,1785308105/streaming/tnt4ott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/TpAtjVLV5922yJHKZOMMHQ,1785308105/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/985RMJ0w_KxoQN-ADmXafg,1785308105/streaming/fenixkino/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/mPgcc8WmxaiO-I3n8EPaJA,1785308105/streaming/mir_seriala/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/5zTHMRxORSqhb0qPx-fq5A,1785308105/streaming/tv_xxi/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.4","version_code":"390","sdk":"30","name":"Honor+Magic6+Pro","device_id":"836cd878e8249e78","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/I0LWnDPULhpVJCd-nZvdGQ,1785308105/streaming/centrtv/324/1/index.m3u8
-
-
 #EXTINF:-1 group-title="Каналы с VPN",Кино ТВ
 http://31.148.48.15:80/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",Кино ТВ HD
