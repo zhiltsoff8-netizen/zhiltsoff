@@ -525,3 +525,59 @@ https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="Tест",1+1 Україна
+http://89.33.29.115:8080/1plus1/index.m3u8
+#EXTINF:-1 group-title="Tест",1+1
+http://89.33.28.74/1+1/index.m3u8
+#EXTINF:-1 group-title="Tест",2+2
+http://89.33.28.74/2+2/index.m3u8
+#EXTINF:-1 group-title="Tест",2+2
+http://89.33.29.115:8080/2plus2/index.m3u8
+#EXTINF:-1 group-title="Tест",НТН HD
+http://89.33.28.74/NTN/index.m3u8
+#EXTINF:-1 group-title="Tест",ТЕТ
+http://89.33.28.74/TET/index.m3u8
+#EXTINF:-1 group-title="Tест",K2
+http://89.33.29.118/k2_ua/index.m3u8
+#EXTINF:-1 group-title="Tест",СТБ
+http://89.33.28.74/STB/index.m3u8
+#EXTINF:-1 group-title="Tест",ЧЕ
+http://89.33.28.74/Che/index.m3u8
+#EXTINF:-1 group-title="Tест",Cinema
+http://89.33.28.74/cinema/index.m3u8
+#EXTINF:-1 group-title="Tест",Discovery HD
+http://89.33.28.74/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Tест",Eurosport HD
+http://89.33.28.74/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Tест",Eurosport 2 HD
+http://89.33.28.74/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="Tест",History HD
+http://89.33.28.74/History_HD/index.m3u8
+#EXTINF:-1 group-title="Tест",Інтер
+http://89.33.28.74/Inter/index.m3u8
+#EXTINF:-1 group-title="Tест",КИНОХИТ HD
+http://89.33.28.74/Kinohit/index.m3u8
+#EXTINF:-1 group-title="Tест",National Geographic HD
+http://89.33.28.74/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="Tест",National Geographic
+http://89.33.28.74/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Tест",НСТ
+http://89.33.28.74/NST/index.m3u8
+#EXTINF:-1 group-title="Tест",RTVi
+http://89.33.28.74/RTVi/index.m3u8
+#EXTINF:-1 group-title="Tест",СТС
+http://89.33.28.74/STS/index.m3u8
+#EXTINF:-1 group-title="Tест",СТС HD
+http://89.33.28.74/STS_HD/index.m3u8
+#EXTINF:-1 group-title="Tест",СТС LOVE
+http://89.33.28.74/STS_Love/index.m3u8
+#EXTINF:-1 group-title="Tест",TV1000 HD
+http://89.33.28.74/TV1000/index.m3u8
+#EXTINF:-1 group-title="Tест",TV1000 Action HD
+http://89.33.28.74/TV1000_Action/index.m3u8
+#EXTINF:-1 group-title="Tест",ТВ3
+http://89.33.28.74/TV_3/index.m3u8
+#EXTINF:-1 group-title="Tест",Viasat explore
+http://89.33.28.74/Viasat_Explore/index.m3u8
+#EXTINF:-1 group-title="Tест",Viasat Sport
+http://89.33.28.74/Viasat_Sport/index.m3u8
