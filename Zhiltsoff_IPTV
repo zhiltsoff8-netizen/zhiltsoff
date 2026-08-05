@@ -548,7 +548,7 @@ http://89.33.28.74/cinema/index.m3u8
 #EXTINF:-1 group-title="Tест",Discovery HD
 http://89.33.28.74/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Tест",Eurosport 1 HD
-http://89.33.28.74/Eurosport_1_HD/index.m3u8
+http://89.33.28.74/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="Tест",Eurosport 2 HD
 http://89.33.28.74/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Tест",History HD
@@ -578,6 +578,6 @@ http://89.33.28.74/TV1000_Action/index.m3u8
 #EXTINF:-1 group-title="Tест",ТВ3
 http://89.33.28.74/TV_3/index.m3u8
 #EXTINF:-1 group-title="Tест",Viasat explore
-http://89.33.28.74/Viasat_Explore/index.m3u8
+http://89.33.28.74/Viasat_Explorer/index.m3u8
 #EXTINF:-1 group-title="Tест",Viasat Sport
 http://89.33.28.74/Viasat_Sport/index.m3u8
