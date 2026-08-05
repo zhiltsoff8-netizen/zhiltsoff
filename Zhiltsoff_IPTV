@@ -548,7 +548,7 @@ http://89.33.28.74/cinema/index.m3u8
 #EXTINF:-1 group-title="Tест",Discovery HD
 http://89.33.28.74/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Tест",Eurosport 1 HD
-http://89.33.28.74/Eurosport_HD/index.m3u8
+http://89.33.28.74/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 group-title="Tест",Eurosport 2 HD
 http://89.33.28.74/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Tест",History HD
